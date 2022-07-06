@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+![Github branch navigation](images/00-mongodb-logo.jpg)
+
 # MongoDB Workshop
 This repository contains different workshops, each of them is composed of several modules built in git branches.
 
