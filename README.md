@@ -1,5 +1,4 @@
-# MongoDB Developer Workshops
-
+# MongoDB Workshop
 This repository contains different workshops, each of them is composed of several modules built in git branches.
 
 In this README, you will find information about each workshop and which branches have to be used.
